@@ -7,6 +7,7 @@
 
 <p aling="Justify">Soy un apasionado de la tecnología y las artes visuales, con una amplia experiencia en diseño web, ingeniería de sistemas y diseño gráfico. Mi objetivo principal es combinar la creatividad y la funcionalidad para crear soluciones digitales innovadoras.</p>
 
+![portada](https://github.com/ByChokeYT/ByChokeYT.github.io/blob/main/img/My_Alternate_Portfolio_Website.png?raw=true)
 ---
 ### Ingeniería de Sistemas
 
@@ -16,7 +17,7 @@
 
 <p alineg="justify">Con un enfoque en el diseño de interfaces atractivas y experiencia de usuario intuitiva, he trabajado en diversos proyectos de diseño web. Mi experiencia abarca desde la creación de sitios web corporativos hasta el desarrollo de tiendas en línea. Me apasiona mantenerme actualizado con las últimas tendencias en diseño web y utilizar las mejores prácticas para ofrecer experiencias digitales impactantes.</p>
 
-![portada]()
+
 
 ### Diseño Gráfico
 
