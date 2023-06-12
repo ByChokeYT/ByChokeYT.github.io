@@ -21,8 +21,8 @@
 
 ### Diseño Gráfico
 
-<p alineg="justify">Mi formación en diseño gráfico me ha permitido desarrollar habilidades en la creación de identidad visual, diseño de logotipos y piezas gráficas impactantes. He trabajado en la creación de materiales promocionales, folletos y diseño de interfaces de usuario. Mi objetivo es transmitir mensajes claros y atractivos a través del diseño visual, generando una conexión emocional con el público objetivo.
+<p alineg="justify">Mi formación en diseño gráfico me ha permitido desarrollar habilidades en la creación de identidad visual, diseño de logotipos y piezas gráficas impactantes. He trabajado en la creación de materiales promocionales, folletos y diseño de interfaces de usuario. Mi objetivo es transmitir mensajes claros y atractivos a través del diseño visual, generando una conexión emocional con el público objetivo.</p>
 
-Con un enfoque multidisciplinario y una pasión por la excelencia, me esfuerzo por brindar soluciones creativas e innovadoras en cada proyecto en el que trabajo. Mi objetivo es crear experiencias digitales memorables y funcionales que destaquen en el mercado actual.</p>
+Con un enfoque multidisciplinario y una pasión por la excelencia, me esfuerzo por brindar soluciones creativas e innovadoras en cada proyecto en el que trabajo. Mi objetivo es crear experiencias digitales memorables y funcionales que destaquen en el mercado actual.
 
-¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o estás interesado en colaborar, no dudes en contactarme en Choque151.jlc@gmail.com si tiene comentarios o ideas para el sitio web. ¡Deja una :estrella: &nbsp;si te gusta!
+¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o estás interesado en colaborar, no dudes en contactarme en Choque151.jlc@gmail.com si tiene comentarios o ideas para el sitio web. ¡Deja una :estrella: ⭐ si te gusta!
